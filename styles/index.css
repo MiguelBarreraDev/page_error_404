@@ -179,6 +179,15 @@
 	left: -30%;
 	width: 350px;
 	height: 144.91px;
+	animation: SpaceShip 2s infinite ease-in-out alternate;
+}
+@keyframes SpaceShip {
+	0% {
+		transform: translate(0, 0);
+	}
+	100% {
+		transform: translate(0, -15px);
+	}
 }
 /*============================*/
 /* Media query                */
