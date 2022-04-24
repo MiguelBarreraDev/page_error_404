@@ -275,6 +275,9 @@
 	}
 }
 @media only screen and (min-width: 1020px) {
+	.body {
+		margin-top: 18px;
+	}
 	/* code and message */
 	.item_0 .message {
 		font-size: 80px;
