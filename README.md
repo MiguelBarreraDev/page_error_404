@@ -30,7 +30,20 @@ Debido a que es un error muy común, algunas empresas, dessarolladores, personas
 - Se ingresa un URL (Uniform Resource Location) incorrecto
 - De pleno, el recurso no exista en el servidor
 
-## Fases
+## Diseño
 ### Figma
+#### Paleta de colores:
+<img src='https://user-images.githubusercontent.com/82726832/165028911-c91c817b-154c-4a24-bfdb-8742ae47277b.png'>
+
+#### Vistas de escritorio y mobil:
+<ul align='center'>
+  <img src='https://user-images.githubusercontent.com/82726832/165029311-85984552-66cd-426b-8a06-67a04454d4b2.png' width='700px' height='420px'>
+  <img src='https://user-images.githubusercontent.com/82726832/165029332-dc93f41a-07d6-4041-8c52-d6f8e94cb3a4.png' width='200px' height='400px'>
+</ul>
 
 ## Resultado
+### Hosting Gratuito
+https://miguelbarreradev.github.io/page_error_404/
+### Hosting de paga
+http://theconcept.tech/page_error
+
