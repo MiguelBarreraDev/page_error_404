@@ -18,7 +18,7 @@ ser visualizado en **internet**.
 El error 404 es uno de los más comunes a la hora de interactuar con navegadores, y se presenta cuando el recurso solicitado por un cliente no fue encontrado
 en el servidor anfitrión.
 
-Debido a que es un error muy común, algunas empresas, desarolladores, personas con tiempo, etc. Toman la decisión de personalizar esta pagina y darles su propio su toque, tales como:
+Debido a que es un error muy común, algunas empresas, desarrolladores, personas con tiempo, etc. Toman la decisión de personalizar esta pagina y darles su propio su toque, tales como:
 
 - [Digital Ocean](https://intranet.hbtn.io/rltoken/BcOQZUPzoF6sfWd28JAOmA)
 - [GitHub](https://intranet.hbtn.io/rltoken/i56pau9DIG49cBUMBwEcPg)
